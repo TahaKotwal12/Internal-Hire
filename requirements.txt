@@ -1,0 +1,13 @@
+streamlit
+langchain
+tidb-vector
+langchain-core
+langchain-community
+plotly
+pymysql
+langchain-google-genai
+pandas
+python-dotenv
+pypdf
+altair
+streamlit-option-menu
